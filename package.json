@@ -57,7 +57,7 @@
     "nativescript-ui-sidedrawer": "^8.0.1",
     "reflect-metadata": "~0.1.10",
     "rxjs": "^6.4.0",
-    "tns-core-modules": "^6.5.11",
+    "tns-core-modules": "^6.5.27",
     "tslint": "^5.18.0",
     "uglifyjs-webpack-plugin": "^2.1.3",
     "zone.js": "^0.9.1"
